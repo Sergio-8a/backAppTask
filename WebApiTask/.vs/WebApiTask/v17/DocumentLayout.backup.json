@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\Prueba t\u00E9cnica Smart Talent\\WebApiTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66975399-A43E-4727-874C-4036D5AAA8E5}|WebApiTask\\WebApiTask.csproj|c:\\users\\acer\\desktop\\prueba t\u00E9cnica smart talent\\webapitask\\webapitask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66975399-A43E-4727-874C-4036D5AAA8E5}|WebApiTask\\WebApiTask.csproj|solutionrelative:webapitask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66975399-A43E-4727-874C-4036D5AAA8E5}|WebApiTask\\WebApiTask.csproj|c:\\users\\acer\\desktop\\prueba t\u00E9cnica smart talent\\webapitask\\webapitask\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66975399-A43E-4727-874C-4036D5AAA8E5}|WebApiTask\\WebApiTask.csproj|solutionrelative:webapitask\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66975399-A43E-4727-874C-4036D5AAA8E5}|WebApiTask\\WebApiTask.csproj|c:\\users\\acer\\desktop\\prueba t\u00E9cnica smart talent\\webapitask\\webapitask\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{66975399-A43E-4727-874C-4036D5AAA8E5}|WebApiTask\\WebApiTask.csproj|solutionrelative:webapitask\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66975399-A43E-4727-874C-4036D5AAA8E5}|WebApiTask\\WebApiTask.csproj|c:\\users\\acer\\desktop\\prueba t\u00E9cnica smart talent\\webapitask\\webapitask\\controllers\\taskmanagerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66975399-A43E-4727-874C-4036D5AAA8E5}|WebApiTask\\WebApiTask.csproj|solutionrelative:webapitask\\controllers\\taskmanagerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Prueba t\u00E9cnica Smart Talent\\WebApiTask\\WebApiTask\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Prueba t\u00E9cnica Smart Talent\\WebApiTask\\WebApiTask\\appsettings.json",
+              "RelativeToolTip": "WebApiTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T07:03:09.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Prueba t\u00E9cnica Smart Talent\\WebApiTask\\WebApiTask\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApiTask\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Prueba t\u00E9cnica Smart Talent\\WebApiTask\\WebApiTask\\appsettings.Development.json",
+              "RelativeToolTip": "WebApiTask\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T07:03:06.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Prueba t\u00E9cnica Smart Talent\\WebApiTask\\WebApiTask\\Dockerfile",
+              "RelativeDocumentMoniker": "WebApiTask\\Dockerfile",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Prueba t\u00E9cnica Smart Talent\\WebApiTask\\WebApiTask\\Dockerfile",
+              "RelativeToolTip": "WebApiTask\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-13T06:42:17.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskManagersController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Prueba t\u00E9cnica Smart Talent\\WebApiTask\\WebApiTask\\Controllers\\TaskManagersController.cs",
+              "RelativeDocumentMoniker": "WebApiTask\\Controllers\\TaskManagersController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Prueba t\u00E9cnica Smart Talent\\WebApiTask\\WebApiTask\\Controllers\\TaskManagersController.cs",
+              "RelativeToolTip": "WebApiTask\\Controllers\\TaskManagersController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwEoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:38:50.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
